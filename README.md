@@ -2,7 +2,7 @@
 Prodigy Infotech internship - Software Development - Task 02 by; Priyant
 Guessing Game 
 
-https://github.com/Pbhacks/Prodigy_SD_02/blob/main/s1.png
+![Alt text](https://github.com/Pbhacks/Prodigy_SD_02/blob/main/s1.png)
 
  USER MANUAL
 -------------
